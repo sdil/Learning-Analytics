@@ -1,0 +1,9 @@
+TODO:
+
+- Store userID in localStorage using jQuery
+- send data to server using jQuery POST method
+- retrieve data from server using jQuery GET Method - TODO
+- plot graph using Chart.js
+- plot 2 lines on the same chart
+
+- git push

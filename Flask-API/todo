@@ -1,0 +1,18 @@
+Todo:
+
+- setup pip DONE
+- initiate Flask app - DONE
+- jsonify returns - DONE
+
+- write ORM
+-- connect to DB - DONE
+-- proper manual DB migration - partially DONE
+
+- JSON POST route
+-- working POST JSON route - DONE
+-- POST route with data insertion - DONE
+
+- Perform MariaDB dump
+- Migrate to MongoDB
+
+- git push
